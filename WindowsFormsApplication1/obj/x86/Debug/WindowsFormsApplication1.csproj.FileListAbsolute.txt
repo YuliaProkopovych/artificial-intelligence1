@@ -1,0 +1,15 @@
+C:\Users\Yulia\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Yulia\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yulia\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Yulia\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Yulia\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Yulia\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Yulia\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Yulia\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Yulia\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.GLEE.dll
+C:\Users\Yulia\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.GLEE.Drawing.dll
+C:\Users\Yulia\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+C:\Users\Yulia\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.GLEE.pdb
+C:\Users\Yulia\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.GLEE.Drawing.pdb
+C:\Users\Yulia\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\Yulia\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.GraphView.resources
